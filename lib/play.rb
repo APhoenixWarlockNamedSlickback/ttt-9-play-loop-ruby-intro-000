@@ -43,4 +43,3 @@ def play(board)
     gameturn += 1
   end
 end
-
